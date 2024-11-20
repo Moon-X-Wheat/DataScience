@@ -1,1 +1,12 @@
 # Data8学习记录
+
+### 1120
+- course 1
+ - 简单了解什么是数据科学。数据科学的定义很多，基本上包括了三个过程
+  - exploration:探索数据。messing your data, get your hand dirty
+  - inference：推断实际发生的过程
+  - prediction：预测将要发生的事情
+- lab01（超好玩）
+ - 简单了解什么是jupyter notebook：一种可以运行多种类型语言和文本的'笔记本'。每一种语言需要一个对应的核（kernel），运行python是一个核，如果要运行R语言就切换到另一个核
+ - jn的特点是有一个个单独的cell，单元之间可以相互独立，只运行某个单元（当然也可以相互调用）。最有意思的是，每个单元可以分别选择模式（markdown, code, raw）。用来做笔记非常方便，写代码时用code模式，如果要做笔记就用md。据说还可以用爱写latex
+
